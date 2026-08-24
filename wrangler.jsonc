@@ -15,6 +15,6 @@
     "GITHUB_BRANCH": "main",
     "GITHUB_REPOS": "eco-archive-gpu,eco-archive-aura",
     "ADMIN_ENABLED": "false",
-    "ADMIN_URL": "https://eco-archive-gpu.progen-web.workers.dev/admin"
+    "ADMIN_URL": "https://eco-archive-admin.progen-web.workers.dev/admin"
   }
 }
